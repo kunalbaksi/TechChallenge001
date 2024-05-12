@@ -1,0 +1,1 @@
+Terraform module to deploy linux VM with nic, pip, default nsg rules
